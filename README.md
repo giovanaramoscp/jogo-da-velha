@@ -1,1 +1,1 @@
-🔗Link do jogo: https://giovanaramoscp.github.io/jogo-da-velha/
+🔗Deploy: https://giovanaramoscp.github.io/jogo-da-velha/
